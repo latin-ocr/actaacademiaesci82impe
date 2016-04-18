@@ -1,0 +1,41 @@
+»ἕως 2326( &123⁴-
+
+confiderari debuisset motus cometae, cuius orbita parabo.
+lica in ipsum planum eclipticae incidit. Huic tripiici de.
+fecto sequentibus problematibus heic occurrere mecum con-
+stimi,
+
+Problema' 1.
+
+‘rab v, ξ, 2. Datis duabus cometae a sole distantiis FS:f
+Fig. 2. et G S 1 g‚· ‘vna cum angulo intercepto F S G ΞΘ, inuenire
+aream sefforis parabolici FSG ;Δ.
+
+SolutiO.
+
+Sit Π vertex parabolae, siue perihelium cometae,
+positaque eius distantia a Sole Π S:p‚ erit parameterhu-
+ius parabolae :4123 vnde fi ex punCto F ad axem ΠΒ
+demittatur perpendiculum FP, pofita abscissa Π sz et
+
+applicata P F :y erit ex natura parabolae yy :2 4px et
+y z P F z 2 Vp x. Hinc autem fiet area
+
+I’IPFszsydx:2Vpsdengprx.
+Cum autem sit
+
+FS:V(PS²-t-PF²):V((x-p)²÷4px)‚
+erit Fszfzx-l—p, ideoque xzf-p‚ vnde fit area
+
+Π PF:÷(f—p)V<fp—pp)-
+Hinc subtrahi debet area trianguli S P F 1 ,ζ Ρ F. P S, quae est
+
+spF:<x-p)Vpxztv-thpf-pp),
+
+qua sublata remanebit area nsF, scillcet
+nsF:;(f-÷⁴2p)1s(ps*pp).
+
+Quodsi iam punctum alterum G simili modo trastess
+tur, demissa applicata G Q et facus reliquis operationibus
+vt
+

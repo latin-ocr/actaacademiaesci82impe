@@ -1,0 +1,42 @@
+Tan. 11.
+Fig. 4·
+
+»ne->13 )38( &223⁴-
+
+ξ. 2. Constitutis igitur vt ante temnis axibus prin-
+cipalibus OA, OB, OC, quibus coordinatae, quoduis
+pundhlm curuae z determinantes, ssnt parallelae, scilicet
+
+ox:x‚xy:=y,yz:z,
+
+statim in calculum introducam illud planum, quod per bina
+curuae clementa contigua determinatur, fiue in quo curua
+hoc loco incuruathr. Secet igitur istud planum ternos
+nostros axes in pumstis u, v et w, ac ponamus distantias
+Οιιῑῐα, Ovzv, sz‘w, quandoquidem his tribus
+quantitatibus positio plani penitus determinatur. Quate-
+nus igitur curuae punstum z in hoc ipso plano reperitur,
+aequatio inter ternas eaor-''natus x, y, z erit Vnius di-
+menfionis, huius formae, A: -1-By 4- szD, ad quam
+penitus determinandam transferamus primo pune‘tum z in
+ipsum punstum u fietque x 1: u, y z 0 et z z 0, vnde
+erit AuzD. Simili modo, translato pune'to z in ipium
+punstum v, fiet x:0, y:v‚ z::0‚ vnde erit szD.
+Denique translato puncsto z in ipsum punCtum w, erit
+zzw, x:0,y:0, vnde erit szD. Cum igitur
+hinc fit
+
+A:},B::-}‚ 0:23,
+
+erit aequatio localis pro plano uvw haec:
+’ἶ 4- ÷ —i- ῐῖ, ³ ¹·
+
+§. 3. Quod fi nunc vt ante elementum curuae
+statuatur :ds, ac per hoc clementum reliqua ita defini-
+antur, vt sit
+
+dxzpds‚dy:qu,dz:rds‚
+
+erit vtique p p -i- q q -ὶ- r r z ι, ac differentiando dp
+1>
+

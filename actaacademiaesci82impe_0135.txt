@@ -1,0 +1,39 @@
+»ἓῡῖἓ ) 2 1 ί 5203<-
+
+ceffe est, vt radius curuaturae pro talibus binis elementis
+exploretur, eiusque non solum quantitas, sed etiam post-
+tio respectu ternorum axium assignetur. Euidens autem
+est, has posteriores determinationes differentialia secundi
+gradus inuoluere, quorum repraesentatio in figura taedio-
+
+sam attentionem postulare solet.
+
+ξ. 3. Ante omnia autem conueniet calculum ita
+exsequi, vt nulli ternorum axium prae reliquis vlla prae·
+rogatiua tribuatur, atque omnia pari modo ad vnum-
+quemque restrri queant. Huncin finem ipsum arcum
+curmae, quem vocemus ῖς, tanquam praecipuam variabi-'
+lem in calculum introducamus, ad eamque omnes reliquas
+variabiles reuocem1153 ita vt omnes tanquam functiones
+ipsius s spectari queant. Hunc in finem statuamus statim
+
+ab initio dxzp ds, dyzqu et dz:r ds, vnde cum
+sit ds²zdx²÷dy²÷dz², erit pp—i-qq -†-rr: 1,
+ideoque differentiando p dp -ὶ- q d q 4- r dr Ξ 0. Tum
+vero nihil impedit, quo miuus elementum d s pro con-
+stante accipiamus ‚ quandoquidem aequaliter ad fingu-
+los axes rcfertur , vnde nanciscemur differentialia secundi
+gradus ddx1dpds3 ddyquds et ddz: drds,
+sicque hoc modo differentialia secunda penitus euitabimus.·
+
+§. 4.- Consideremus nunc seorfim elementum cut·- Tab. Ι.
+
+vae Zz: ds, quod quomodo ad ternos nostros axes se
+habeat videamus. Hunc in finem ex puncto Z ducamus
+rectas Zp, Zq et Zr, axi-bus parallelas, et ipsum elemen-
+tum Zz erit diagonalis parallelepipedi a ternis lateribus
+
+Ca Zp
+
+Fig. 6.
+

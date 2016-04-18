@@ -1,0 +1,28 @@
+»ἓξὲξ ) 36 ( &tt->3⁴-
+Demonstratio.
+
+Ducantur arcus αα, βό et γε, qui erunt quadran-
+tes, quomam omnes arcus ex a in latus bc ducti sune
+quadrantes, ac praeterea etiam normaliter infistunt. Hinc
+quia anguli ad p, q et r sunt etiam tetsti, erunt quoque
+arcus ap, βᾳ et Ύν quadrantes, vnde sequitur fore arcum
+ap: angulo aotp, ideoque
+
+fin.ap·:fin.aotp:cos.boe7.
+
+Eodem modo erit b q -τ b β q, ideoque
+s1n.bq::fin.bssq::cofiaf3‘y;
+
+denique erit crzc‘vr hincque
+fin.cr=fin‚c⁴yr::cos.a·yf3.
+
+Quare curn summa quadratorum horum cofinuum fit
+
+z 1, erit quoque
+
+fin.ap²÷-sm.bq²÷fin.cr²: 1. Q. E. D.
+
+ 
+
+ME·
+

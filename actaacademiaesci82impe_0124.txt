@@ -1,0 +1,42 @@
+»2233 ) 10 ( &3³3⁴-
+
+tres lineas continent quae triangulum constituunt, quemad·
+modum scilicet a, q, r triangulumffiB CD includunt, li-
+neae vero b, p, r triangulum AC'D‚ lineae c, p, q tri-
+angulum ABD, et a, b, c triangulum AB C; ficque ra-
+tio, qua ista aequatio componitur, luculenter perspicitur.
+
+Corollarium 3(
+
+ξ. 11. Praeterea vero singularum harum littera-
+Τὼ· ²2 rum potestates quartae in aequatione occurrunt3 vnde in-
+· telligitur, fi earum quinque fuerint datae, sextam ex iis
+duplici modo determinari poffe, id quod cum rei natura
+egregie conuenit. Si enimpraeter tria latera α, b, c den-
+tur binae restae p et q, ex figura euidens est, easdem ita
+ad alteram partem dispositas esse posse, vt fit Adzp et
+Ba: q, vnde sexta r poterit effe vel CD vel Cd.
+
+Corollarium 4.
+
+§. 12. Quod fi autem sumamus quinque rectas a,
+h, c et p, q esse datas, videamus quomodo ex iis sexta
+
+r determinetur; quem in¹ finem aequatio quarti gradus ita
+disponatur:
+
+ccr⁴2{÷rr<(aa—bb>(pp—qqi÷cc(aa÷bb÷13p÷qq—c⁴)
+
+- (aapp- bbqq) (aa—hb÷pp - qq) - cc (aa- qq) (ὸῦτ pp),
+cuius autem vlterior euolutio in nimis taediosas ambages
+
+praecipitaret.
+
+Problema-
+
+τ b Ι· §- 13· Datis in quadrilatero A Β C D quatuor Ia·
+§3⁴10 teribus-'AB-:ffi Bezb, onze, DA:d‚ cmnual-
+tera diagonalz AC z f, inuenire alteram dmgonalem BD:x‚
+
+Solu·
+

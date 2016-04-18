@@ -1,0 +1,42 @@
+»3213 ) 13 -t 2:23<-
+
+tur summae quadratorum laterum. Praeterea vero alia
+Solutio locum habere potest, qua fit sxzaa—bb, in
+parallelogramma neutiquam competens·, refertur haec pro· Tabj.
+prietas ad eam trapeziorum speciem Α CB D, in qua al.- Fig. 4·
+tera bina latera Ac et BD sunt inter se parallela, al-
+
+tera veroB C et A D inter se aequalia: in hac enim fi-
+
+gura vtique erit
+
+AC.BD.:AB².-BC²‚
+
+fine cum in hac figura, lat-era AB et CD manifesto {int
+aequalia, erit
+
+AB.cD=Ac.130-÷-BC.AD‚
+
+quae proprietas declarat hanc figuram circulo effe inscri-
+ptibilem, in qua cum iam restae AB et C D ,fint diago-
+nales, per Theorema Ptolemaicum erit vtique
+
+AB.CD·:AC.BD-÷-BC.AD.
+
+Exemplum 2.
+
+§. 17. Sumamus nune quadrilaterum ABCD, Fig. 2.
+cum suis diagonalibus A C et BD, ita effe comparatum
+vt fit sx:ac÷†—bd, fine
+
+AC.BD:AB.cD-.÷-÷BC.AD.
+
+Nunc in nostra aequatione generali loco sfxx scribamus
+(ac—kb d)²‚ ac membra secundum ss et xx disponamus,
+‘vnde depromamus primo ea, quae continent formulam
+ss÷ xx, deinde ea, quae continent seorsim ss et xx,
+denique vero ea quae neque s continent neque x, quo
+obseruato nostra aequatio ad sequentem formam redigetur:
+
+B :³ (ff÷
+
